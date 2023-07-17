@@ -96,3 +96,15 @@ then run
 ```sh
 sudo nixos-rebuild switch
 ```
+
+## [Scoop](https://scoop.sh/)
+
+### Prerequisites
+
+Head over to the [Scoop installation page](https://github.com/ScoopInstaller/Install#readme) and follow the instructions to install Scoop.
+
+### Installation
+
+```powershell
+scoop install starship
+```
